@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: ' ',
-  github: 'https://github.com/JrLyu',
-  linkedin: 'https://www.linkedin.com/in/jiuru-lyu-21844a1b7/',
+  github: 'JrLyu',
+  linkedin: 'jiuru-lyu-21844a1b7/',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
