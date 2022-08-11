@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'MATLAB-a30f5c6988524c5c9a0264b69066eb60',
+  rootNotionPageId: '9769be8a41cf458fa9ae7b064bbd18f3?v=2585b3347dd140a49d539ef5d081d1fb',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'https://jrlyu.notion.site/jrlyu/MATLAB-a30f5c6988524c5c9a0264b69066eb60',
+  domain: 'https://jrlyu.notion.site/9769be8a41cf458fa9ae7b064bbd18f3?v=2585b3347dd140a49d539ef5d081d1fb',
   author: 'Jiuru Lyu',
 
   // open graph metadata (optional)
-  description: 'MATLAB Learning Notes by Jiuru Lyu',
+  description: 'Jiuru Blogs',
 
   // social usernames (optional)
   twitter: ' ',
